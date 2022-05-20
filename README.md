@@ -1,4 +1,4 @@
-# My-Portfolio
+# My brief introduction
 
 I’m CHAITANYA BHAT
 
