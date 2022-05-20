@@ -1,0 +1,285 @@
+* {
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+  text-align: center;
+}
+.front-div {
+  overflow: hidden;
+  background-color: turquoise;
+}
+.front-img {
+  position: fixed;
+  left: 0;
+  width: 100%;
+  border-radius: 200rem 0rem 100rem 200rem;
+}
+.front-img2 {
+  display: none;
+  position: fixed;
+  right: 0;
+}
+.menu > ul {
+  display: grid;
+}
+.menu .logo-li {
+  grid-row: 1/3;
+  grid-column: 1;
+  padding-top: 1rem;
+}
+.menu .header-li {
+  grid-row: 1;
+  grid-column: 2/6;
+  background-image: none !important;
+}
+.menu .about {
+  grid-row: 2;
+  grid-column: 2;
+}
+.menu .education {
+  grid-row: 2;
+  grid-column: 3;
+}
+.menu .contact {
+  grid-row: 2;
+  grid-column: 4;
+}
+.menu .projects {
+  grid-row: 2;
+  grid-column: 5;
+}
+
+.logo {
+  height: 3rem;
+}
+.menu  span {
+  color: #141C3A;
+  font-size: 1.5rem;
+  text-align: right;
+  font-style: oblique;
+}
+.menu a {
+  text-decoration: none;
+  font-size: 1.1rem;
+  color: #141C3A;
+  font-weight: bold;
+}
+.menu li {
+  padding: 0.6rem 0rem;
+  background-image: url(images/stone.jpg);
+}
+section {
+  background-color:  #141C3A;
+  padding: 1.6rem 0rem;
+  margin-bottom: -6rem;
+}
+.my-img {
+  max-width: 15rem;
+  border-radius: 50%;
+}
+.section-title {
+  padding-top: 4rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color:  #141C3A;
+}
+.edu-img, .work-img, .contact-img {
+  height: 80px;
+  width: auto;
+}
+.cv-btn {
+  outline: none;
+  background-color: #141C3A;
+  margin: 20px;
+  padding: 15px;
+  border-radius: 25%;
+}
+.cv-btn > a {
+  text-decoration: none;
+  color: wheat;
+  font-size: 1rem;
+}
+.cv-btn:hover {
+  background-color: rgb(248, 241, 229);
+  transition: 0.5s;
+}
+.cv-btn:hover a {
+  color: #2251AA;
+}
+.cv-btn a:after {
+  content: '\21d3';
+  opacity: 0;
+  transition: 0.5s;
+}
+.cv-btn:hover a:after {
+  opacity: 1;
+}
+
+.about-page, .education-page, .projects-page {
+  margin-bottom: -35px;
+}
+.education-page, .projects-page, .contact-page {
+  margin-top: -100px;
+}
+.about-page, .education-page, .projects-page, .contact-page {
+  border-color: lightgray;
+  border-style: solid;
+  border-width: 1px 4px 4px 1px;
+  border-radius: 5%;
+  font-size: 1.1rem;
+  margin-left: 25px;
+  margin-right: 25px;
+  padding: 20px;
+  background-color: white;
+}
+* li {
+  list-style: none;
+}
+.about-page .labels {
+  font-weight: bold;
+  margin-top: 30px;
+  color: #2251AA;
+}
+.education-page h4, .projects-page h4 {
+  color:  #2251AA;
+}
+.education-page > div, .projects-page > div, .contact-page > div {
+  margin: 30px 0px;
+}
+.experience .btm-padding, .contact-info .btm-padding {
+    padding-bottom: 30px;
+}
+.project-display > div {
+  overflow: hidden;
+  box-shadow: lightgray 0.3rem 0.4rem;
+  margin: 1rem;
+  border-radius: 0.5rem;
+}
+.project-display img {
+  width: 100%;
+}
+#projects a, #contact a, .project-display a {
+  text-decoration: none;
+  color: #2251AA;
+
+}
+.copyright {
+  font-size: 0.8rem;
+  background-color: rgb(226, 224, 224);
+  color: #141C3A;
+  padding: 1rem;
+}
+
+@media screen and (min-width: 800px) {
+  .menu  span {
+    font-size: 2rem;
+  }
+  .menu a {
+  text-decoration: none;
+    font-size: 1.4rem;
+  }
+  .my-img {
+    max-width: 17rem;
+    border-radius: 50%;
+  }
+  .detail {
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-auto-flow: column;
+  }
+  .about-page {
+    grid-row: 1;
+    grid-column: 1/4;
+  }
+  .edu-img {
+    grid-row: 2;
+    grid-column: 1;
+  }
+  .work-img {
+    grid-row: 2;
+    grid-column: 2;
+  }
+  .contact-img {
+    grid-row: 2;
+    grid-column: 3;
+  }
+  .education-page {
+    grid-row: 3;
+    grid-column: 1;
+  }
+  .projects-page {
+    grid-row: 3;
+    grid-column: 2;
+  }
+  .contact-page {
+    grid-row: 3;
+    grid-column: 3;
+  }
+  .project-display {
+    grid-row: 4;
+    grid-column: 1/4;
+  }
+  section {
+    margin-bottom: -90px;
+  }
+  .section-title {
+    padding-top: 5px;
+    font-size: 2rem;
+  }
+  .edu-img, .work-img, .contact-img {
+    height: 50px;
+  }
+  .cv-btn > a {
+    font-size: 1.2rem;
+  }
+  .about-page {
+    margin: 0px 100px;
+  }
+  .education-page, .projects-page, .contact-page {
+    margin: 0px;
+  }
+  .about-page, .education-page, .projects-page, .contact-page {
+    font-size: 1.4rem;
+  }
+  .about-page .labels {
+    margin-top: 50px;
+  }
+  .education-page > div, .projects-page > div, .contact-page > div {
+    margin: 50px 0px;
+  }
+  .experience .btm-padding, .contact-info .btm-padding {
+    padding-bottom: 46px;
+  }
+  .project-display h4 {
+    font-size: 1.2rem;
+  }
+  .project-display {
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-auto-flow: column;
+  }
+  .project-img1 {
+    grid-row: 1;
+    grid-column: 1;
+  }
+  .project-img2 {
+    grid-row: 1;
+    grid-column: 2;
+  }
+  .project-img3 {
+    grid-row: 1;
+    grid-column: 3;
+  }
+  .project-img4 {
+    grid-row: 2;
+    grid-column: 1;
+  }
+  .project-img5 {
+    grid-row: 2;
+    grid-column: 2;
+  }
+  .project-img6 {
+    grid-row: 2;
+    grid-column: 3;
+  }
+}
