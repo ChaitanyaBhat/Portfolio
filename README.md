@@ -1,64 +1,74 @@
 # My brief introduction
-
 I’m CHAITANYA BHAT
 
-E-mail: chaitanya.gb@gmail.com
+📨 E-mail: chaitanya.gb@gmail.com
 
-WORK EXPERIENCE:
+💼 WORK EXPERIENCE:
 
-  Worked as a full stack developer in Sathvik Softech, Hubli, Karnataka
-
-
-EDUCATION:
-
-  • Python Programming Course – Tkinter, Kivy, PyQt, Raspberry Py
-
-  • Web Development Course – HTML 5, CSS , Java Script, Node.js, Express.js, React
-
-  • Database Management Course – MySQL, SQLite, Sequelize
-
-  • Basic Computer Science Course – C, C++, Java, Visual Basic
-
-  • Master of Science in Physics
-
-  • Bachelor of Science (Pysics, Mathematics and Computer Science)
+Worked as a full stack developer in Sathvik Softeck, Hubli, Karnataka
 
 
-JOB-RELATED SKILLS:
+📖 EDUCATION:
 
-  • Good knowledge of Linux and Windows O.S.
-  
-  • Usage of the Remote Support software as (AnyDesk and Teamviewer)
-  
-  • Good knowledge of the following programming language: Python, Java Script
-  
-  • Solid knowledge of MySql and Sequelize 
-
-
-ORGANISATIONAL / COMMUNICATION SKILLS:
-
-  • Ability to plan, schedule and handle​ the work-load 
-  
-  • Team work, communicate effectively and work together to achieve a common goal
-  
-  • Ability to listen carefully to user feedbacks to determine modifications for optimal user-function
+   • Python Programming Course – Tkinter, Kivy, PyQt, Raspberry Py
+   
+   • Web Development Course – HTML5, CSS , Java Script, Node.js, Express.js, React 
+   
+   • Database Management Course – MySQL, SQLite, Sequelize
+   
+   • Basic Computer Science Course – C, C++, Java, Visual Basic
+   
+   • Master of Science in Physics
+   
+   • Bachelor of Science (Pysics, Mathematics and Computer Science)
 
 
-LANGUAGES:
+🛠️ JOB-RELATED SKILLS:
 
-  • Kannada • Hindi • English
+    • Good knowledge of Linux and Windows
+    • Usage of the Remote Support software like AnyDesk and Teamviewer
+    • Good knowledge of the following programming language: Python, Java Script, HTML and CSS
+    • Solid knowledge of MySql and Sequelize 
 
-ADDITIONAL EDUCATION:
 
-  • Hindustani Music Course, • Sitar Course, • Sanskrit Course
+🏢 ORGANIZATIONAL SKILLS:
 
-HOBBIES:
+    • Ability to plan, schedule and handle the work-load 
+    • Communicate effectively and work together to achieve a common goal
+    • Ability to listen carefully to user feedbacks to determine modifications for optimal user-function
 
-  • Drawing • Reading • Singing • Listening to music • Cooking • Gardening • Traveling
-  
 
-NATIONALITY: Indian
+🌐 LANGUAGES:
 
-MARITAL STATUS: Married
+ • Kannada
+ • Hindi
+ • English
 
-CURRENT ADDRESS: Bangalore
+
+🖥️ OPERATING SYSTEMS:
+
+ • Linux
+ • Windows 
+
+
+🌱 ADDITIONAL EDUCATION:
+
+ • Hindustani Music Course,
+ • Sitar Course,
+ • Sanskrit Course
+
+
+👀 HOBBIES:
+
+ • Drawing
+ • Reading
+ • Singing
+ • Listening to music
+ • Photography
+ • Gardening
+ • Traveling
+ 
+
+🇮🇳 NATIONALITY: Indian
+
+📮 CURRENT ADDRESS: Bangalore
