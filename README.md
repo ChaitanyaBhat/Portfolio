@@ -6,7 +6,7 @@ E-mail: chaitanya.gb@gmail.com
 
 WORK EXPERIENCE:
 
-  Worked as a full stack developer in Sathvik Softteck, Hubli, Karnataka
+  Worked as a full stack developer in Sathvik Softech, Hubli, Karnataka
 
 
 EDUCATION:
