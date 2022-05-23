@@ -2,6 +2,7 @@
 
 I’m CHAITANYA BHAT
 
+E-mail: chaitanya.gb@gmail.com
 
 WORK EXPERIENCE:
 
@@ -26,15 +27,20 @@ EDUCATION:
 JOB-RELATED SKILLS:
 
   • Good knowledge of Linux and Windows O.S.
+  
   • Usage of the Remote Support software as (AnyDesk and Teamviewer)
+  
   • Good knowledge of the following programming language: Python, Java Script
+  
   • Solid knowledge of MySql and Sequelize 
 
 
 ORGANISATIONAL / COMMUNICATION SKILLS:
 
   • Ability to plan, schedule and handle​ the work-load 
+  
   • Team work, communicate effectively and work together to achieve a common goal
+  
   • Ability to listen carefully to user feedbacks to determine modifications for optimal user-function
 
 
@@ -49,9 +55,7 @@ ADDITIONAL EDUCATION:
 HOBBIES:
 
   • Drawing • Reading • Singing • Listening to music • Cooking • Gardening • Traveling
-
-
-EMAIL ADDRESS: chaitanya.gb@gmail.com
+  
 
 NATIONALITY: Indian
 
